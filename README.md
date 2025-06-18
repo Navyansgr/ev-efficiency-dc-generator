@@ -63,12 +63,6 @@ Our system's core design revolves around efficient energy conversion and integra
 
 ---
 
-## 📊 Architecture
-
-The system's architecture focuses on the physical integration and energy flow:
-
-![System Architecture](architecture/system-diagram.png)
-
 
 
 ---
